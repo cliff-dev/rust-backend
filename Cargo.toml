@@ -9,3 +9,4 @@ anyhow = "1.0.97"
 tokio = { version = "1", features = ["full"] }
 mini-redis = "0.4"
 actix-web = "4.9.0"
+uuid = "1.15.1"
